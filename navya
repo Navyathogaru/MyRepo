@@ -10,3 +10,10 @@ again new data addded
 added for checking
 welcome to the devops session
 java code added
+-------------
+
+    public class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("Hello, World!");
+        }
+    }
